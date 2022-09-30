@@ -1,5 +1,3 @@
-# 스프링부트 웹 만들기 책을 만드는 공간입니다.
-
 언젠가는 내 이름의 책이 한권 있으면 좋겠다 싶었다.
 
 SW 개발자로 15여년, 그리고 IT강사로 5여년을 지내오면서 정리된 지식을 책으로 정리하면 좋을 것 같다는 생각이 든다.
@@ -50,7 +48,7 @@ SW 개발자로 15여년, 그리고 IT강사로 5여년을 지내오면서 정�
 - IDE 코드편집툴 - STS4.x vs **IntelliJ IDEA 커뮤니티버전**
 - DBMS - 오라클 11g XE vs **PostgreSQL** vs Maria DB vs MySQL
 - Data 프레임워크 - **JPA** vs MyBatis
-- View Template 엔진 - Thymeleaf vs **Mustache** vs JSP
+- View Template 엔진 - **Thymeleaf vs Mustache** vs JSP
 - 배포 파일 - Jar( BootJar ) vs War ( **BootWar** )
 - 배포 서버 - AWS EC2 vs **AWS 라이트세일(lightsail)** vs 가상서버 호스팅 - 벌처(Vultr) 등
 
@@ -74,20 +72,5 @@ MS 워드?도 아니다.
 
 이상.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(이 콘텐츠(글,그림,코드)의 저작권은 저자에게 있으며, 향후 책 발간이후에는 이 포스트는 삭제될 수 있음을 알려드립니다.)
 
