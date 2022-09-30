@@ -45,7 +45,7 @@ SW 개발자로 15여년, 그리고 IT강사로 5여년을 지내오면서 정�
 
 >구글 검색을 해보면 스프링에 대한 단일화(일관된) 개발 환경이 없어서 관련된 코드를 찾아 고치기 힘들다.
 >
-- 스프링프레이워크 - Spring Lagacy vs **Spring Boot **
+- 스프링프레이워크 - Spring Lagacy vs **Spring Boot**
 - 빌드구성 - Maven vs **Gradle**
 - IDE 코드편집툴 - STS4.x vs **IntelliJ IDEA 커뮤니티버전**
 - DBMS - 오라클 11g XE vs **PostgreSQL** vs Maria DB vs MySQL
