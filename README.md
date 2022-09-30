@@ -49,8 +49,8 @@ SW 개발자로 15여년, 그리고 IT강사로 5여년을 지내오면서 정�
 - 빌드구성 - Maven vs **Gradle**
 - IDE 코드편집툴 - STS4.x vs **IntelliJ IDEA 커뮤니티버전**
 - DBMS - 오라클 11g XE vs **PostgreSQL** vs Maria DB vs MySQL
-- Data 프레임워크 - **JPA **vs MyBatis
-- View Template 엔진 - **Thymeleaf vs Mustache** vs JSP
+- Data 프레임워크 - **JPA** vs MyBatis
+- View Template 엔진 - Thymeleaf vs **Mustache** vs JSP
 - 배포 파일 - Jar( BootJar ) vs War ( **BootWar** )
 - 배포 서버 - AWS EC2 vs **AWS 라이트세일(lightsail)** vs 가상서버 호스팅 - 벌처(Vultr) 등
 
